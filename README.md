@@ -1,4 +1,4 @@
-# 🥦 **Healthy Food Affordability Strategy Analysis**
+# 🥦 **Healthy Food Affordability Consulting Project**
 
 ##### **Exploring how affordability can drive sales growth, customer loyalty, and long-term business success in the healthy food market.**
 
@@ -45,7 +45,7 @@ This project investigates the impact of affordability on sales, customer behavio
 
 1. Identify the relationship between affordability and incremental sales growth 💸.
 2. Understand customer segmentation based on affordability preferences 👥.
-3. Evaluate price elasticity of demand for healthy food products 📉.
+3. Evaluate the price elasticity of demand for healthy food products 📉.
 4. Track customer retention and acquisition in response to affordability strategies 🔁.
 5. Predict long-term business growth driven by affordability-focused approaches 🔮.
 
