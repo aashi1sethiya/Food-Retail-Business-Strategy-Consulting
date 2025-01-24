@@ -2,13 +2,14 @@
 
 ##### **Exploring how affordability can drive sales growth, customer loyalty, and long-term business success in the healthy food market.**
 
+
 ## 🎯 **Core Business Question**
 
 **How can we make healthy food more affordable while driving business growth?**
 
 This project investigates the impact of affordability on sales, customer behavior, and profitability for a grocery retail company aiming to expand its market share in the healthy food sector.
 
----
+
 
 ## 📋 **Research Objectives**
 
@@ -19,7 +20,6 @@ This project investigates the impact of affordability on sales, customer behavio
 - **🎉 Promotion Effectiveness:** Measure how affordable promotions influence incremental sales.
 - **📈 Long-Term Growth Prediction:** Forecast business growth driven by affordability-focused strategies.
 
----
 
 ## 🔬 **Data Sources & Methods**
 
@@ -30,6 +30,7 @@ This project investigates the impact of affordability on sales, customer behavio
 4. **Competitor Data:** Competitor Pricing and Promotions.
 5. **Marketing Data:** Promotion Type, Period, Sales Before/After Promotion.
 
+
 ### 🔧 **Methods**
 - **Regression Analysis**: Understand relationships between pricing variables and sales performance.
 - **Time Series Analysis**: Identify trends and forecast future sales patterns.
@@ -37,7 +38,7 @@ This project investigates the impact of affordability on sales, customer behavio
 - **Cluster Analysis**: Group customers based on shared characteristics for targeted marketing.
 - **Competitor Benchmarking**: Compare pricing strategies with competitors.
 
----
+
 
 ## 📊 **Expected Insights**
 
@@ -47,7 +48,7 @@ This project investigates the impact of affordability on sales, customer behavio
 4. Track customer retention and acquisition in response to affordability strategies 🔁.
 5. Predict long-term business growth driven by affordability-focused approaches 🔮.
 
----
+
 
 ## 🚀 **Business Impact**
 
@@ -58,13 +59,13 @@ The insights from this project will help the company:
 - 🤝 Improve customer retention and acquisition through affordability-driven marketing efforts.
 - 🌟 Strengthen competitive positioning in the healthy food market.
 
----
+
 
 ## 📌 **Future Work**
 - Expand analysis to include additional demographic factors like household size or regional preferences 🌍.
 - Develop predictive models for long-term profitability based on affordability strategies 🔮.
 - Explore new promotional strategies that balance affordability with profitability 🎉.
 
----
+
 
 For questions or collaboration opportunities, reach out to our team! 😊
