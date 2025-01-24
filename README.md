@@ -2,8 +2,6 @@
 
 ##### **Exploring how affordability can drive sales growth, customer loyalty, and long-term business success in the healthy food market.**
 
----
-
 ## 🎯 **Core Business Question**
 
 **How can we make healthy food more affordable while driving business growth?**
